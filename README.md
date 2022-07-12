@@ -1,6 +1,6 @@
 # WASP
-WASP: A Workflow for Antibody Sequencing Profiling of single cell immune repertoire
-Input files
+WASP: A Workflow for Antibody Sequencing Profiling of single cell immune repertoire data
+
 | Task | Tool | Data  | Notebook | 
 | ---- | ---- | ---- | -------- |
 | V(D)J annotation and data standardization  | [ChangeO](https://academic.oup.com/bioinformatics/article/31/20/3356/195677) | `filtered_contig_annotations.csv` `filtered_contig.fasta` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yyw-informatics/WASP/blob/main/Immcantation_1_VDJ_Annotation_and_Standardization_with_Change_O_in_Python.ipynb)
