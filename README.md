@@ -1,5 +1,5 @@
 # WASP
-WASP: A Workflow for Antibody Sequencing Profiling of single cell immune repertoire data      
+WASP: A Workflow for Antibody Sequencing Profiling of Single-cell immune repertoire data      
 * The notebooks use functions and documentation from [Immcantation](https://immcantation.readthedocs.io/en/stable/), publications linked under `Method`
 
 | Task | Method | Notebook | 
